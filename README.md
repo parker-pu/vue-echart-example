@@ -95,7 +95,7 @@ npm install echarts --save
 
 - [echart 案列地址](https://echarts.baidu.com/examples/)
 
-### 选择自己想要的图标
+### 选择自己想要的图表
 
 ![home](https://github.com/parker-pu/vue-echart-example/raw/master/docs/images/echart_home.png)
 
@@ -103,4 +103,4 @@ npm install echarts --save
 
 ![home](https://github.com/parker-pu/vue-echart-example/raw/master/docs/images/select_echart.png)
 
-### 把左侧的 **option** 的内容填充到案列代码中的 myChart.setOption() 内的集合里面，原样拷贝过来都行，这样就能够在对应的 **<div id="xxx">** 的**div**结构体里面填充对应的图标，如果需要从后台动态传入数据，那么获取数据之后，填充对应数据即可
+### 把左侧的 **option** 的内容填充到案列代码中的 myChart.setOption() 内的集合里面，原样拷贝过来都行，这样就能够在对应 <div id="xxx"> 的**div**结构体里面填充对应的图标，如果需要从后台动态传入数据，那么获取数据之后，填充对应数据即可
